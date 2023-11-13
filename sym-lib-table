@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "PLC-v0-rescue")(type "Legacy")(uri "D:/DOCUMENTOS/UNIVERSIDAD/CURSOS AUTOMATICA/TESIS/Daniel/pro/HARDWARE/PLC_v1.0/PLC-v0/PLC-v0-rescue.lib")(options "")(descr ""))
+  (lib (name "AutoPLC-v1-rescue")(type "Legacy")(uri "${KIPRJMOD}/AutoPLC-v1-rescue.lib")(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Part Number: TBP01R2-508-08BE
+3DX_CUI_DEVICES_Description: TBP01R2-508 Series - 8 Poles, Pluggable, Receptacle, Vertical, 5.08 Pitch, Terminal Block Connector, RoHS Compliant
