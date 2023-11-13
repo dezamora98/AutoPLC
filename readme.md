@@ -1,3 +1,3 @@
 # AutoPLC
 
-![SCH](AutoPLC.svg)
+![SCH](image.png)
